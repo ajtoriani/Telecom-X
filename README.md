@@ -1,27 +1,27 @@
-# 📊 Estudo de Caso - Churn de Clientes (Telecom X)
+# Telecom X
 
 Este repositório contém um projeto prático realizado como parte do curso de **Data Science** no programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
-![LinkedIn](https://www.linkedin.com/in/ajtp/)
-![GitHub](https://github.com/ajtoriani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 O principal desafio é aplicar os conceitos de **ETL (Extração, Transformação e Carga)** e **EDA (Análise Exploratória de Dados)** para identificar padrões comportamentais e características que influenciam a saída dos clientes da empresa.
 
 ---
 
-## 📦 Etapas do Projeto
+## Etapas do Projeto
 
-- **🔎 Extração**: Os dados foram obtidos de uma API simulada via GitHub (formato CSV).
-- **🔧 Transformação**: Inclui limpeza de dados, conversão de tipos, tratamento de valores nulos e criação de novas variáveis.
-- **📊 Análise**: Visualizações utilizando Python, Pandas, Seaborn e Matplotlib para gerar insights acionáveis.
+- ** Extração**: Os dados foram obtidos de uma API simulada via GitHub (formato CSV).
+- ** Transformação**: Inclui limpeza de dados, conversão de tipos, tratamento de valores nulos e criação de novas variáveis.
+- ** Análise**: Visualizações utilizando Python, Pandas, Seaborn e Matplotlib para gerar insights acionáveis.
 
 ---
 
-## 📈 Principais Análises Realizadas
+##  Principais Análises Realizadas
 
 - Distribuição de churn entre os clientes
 - Comparação de churn por tipo de contrato
@@ -31,7 +31,7 @@ O principal desafio é aplicar os conceitos de **ETL (Extração, Transformaçã
 
 ---
 
-## 🧠 Principais Insights
+##  Principais Insights
 
 - Clientes com **contratos mensais** são os que mais cancelam.
 - A **maior parte do churn acontece nos primeiros 12 meses**.
@@ -40,7 +40,7 @@ O principal desafio é aplicar os conceitos de **ETL (Extração, Transformaçã
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3.10+
 - Pandas
@@ -51,19 +51,19 @@ O principal desafio é aplicar os conceitos de **ETL (Extração, Transformaçã
 
 ---
 
-## 📚 Sobre o Curso
+##  Sobre o Curso
 
 Este projeto foi desenvolvido como parte do **curso de Data Science** do programa [Oracle Next Education (ONE)](https://www.oracle.com/br/education/oracle-next-education/) em parceria com a [Alura](https://www.alura.com.br/), com foco em ETL, análise exploratória e geração de relatórios.
 
 ---
 
-## ✍️ Autor
+##  Autor
 
 - **Nome**: _Ana Julia Toriani Pessoa_
-- 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/ajtp)
+-  LinkedIn: [Seu Perfil](https://linkedin.com/in/ajtp)
 
 ---
 
-## 📌 Licença
+##  Licença
 
 Este projeto é apenas para fins educacionais e não deve ser utilizado comercialmente. Todos os direitos reservados ao autor e à Alura/Oracle como formadores da base educacional.
