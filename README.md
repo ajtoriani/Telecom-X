@@ -15,9 +15,9 @@ O principal desafio é aplicar os conceitos de **ETL (Extração, Transformaçã
 
 ## Etapas do Projeto
 
-- ** Extração**: Os dados foram obtidos de uma API simulada via GitHub (formato CSV).
-- ** Transformação**: Inclui limpeza de dados, conversão de tipos, tratamento de valores nulos e criação de novas variáveis.
-- ** Análise**: Visualizações utilizando Python, Pandas, Seaborn e Matplotlib para gerar insights acionáveis.
+- **Extração**: Os dados foram obtidos de uma API simulada via GitHub (formato CSV).
+- **Transformação**: Inclui limpeza de dados, conversão de tipos, tratamento de valores nulos e criação de novas variáveis.
+- **Análise**: Visualizações utilizando Python, Pandas, Seaborn e Matplotlib para gerar insights acionáveis.
 
 ---
 
