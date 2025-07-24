@@ -73,3 +73,9 @@ Este projeto foi desenvolvido como parte do **curso de Data Science** do program
 ##  Licença
 
 Este projeto é apenas para fins educacionais e não deve ser utilizado comercialmente. Todos os direitos reservados ao autor e à Alura/Oracle como formadores da base educacional.
+
+---
+
+<p align="center">
+  <img src="https://github.com/ajtoriani/Telecom-X/blob/main/telecom2.png" alt="Capa do Projeto Telecom X" width="600"/>
+</p>
