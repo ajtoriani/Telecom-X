@@ -1,3 +1,8 @@
+<div  style="display: flex;">
+    <img alt="Logo da empresa Alura" src="https://www.cuponation.com.br/images/fit-in/256x/images/a/alura_logo.png", style = "width:100px;">
+    <img class="company-logo__img" src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Logo da empresa - Oracle ONE - Br Geral 8">
+  
+
 # Telecom X
 
 Este repositório contém um projeto prático realizado como parte do curso de **Data Science** no programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
